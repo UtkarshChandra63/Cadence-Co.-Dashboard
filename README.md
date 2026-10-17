@@ -66,3 +66,6 @@ To deliver a multi-page interactive dashboard that:<br>
 
 ## 6. Screenshots / Demos
 ![Dashboard Preview](https://github.com/UtkarshChandra63/Cadence-Co.-Dashboard/blob/main/Snapshots%20of%20the%20Dashboard/01-Snapshot%20of%20Executive%20Level%20Report.png)
+![Dashboard Preview](https://github.com/UtkarshChandra63/Cadence-Co.-Dashboard/blob/main/Snapshots%20of%20the%20Dashboard/02-Snapshot%20of%20Product%20Detail%20Report.png)
+![Dashboard Preview](https://github.com/UtkarshChandra63/Cadence-Co.-Dashboard/blob/main/Snapshots%20of%20the%20Dashboard/03-Snapshot%20of%20Map%20Report.png)
+![Dashboard Preview](https://github.com/UtkarshChandra63/Cadence-Co.-Dashboard/blob/main/Snapshots%20of%20the%20Dashboard/04-Snapshot%20of%20Customer%20Detail%20Report.png)
