@@ -1,5 +1,5 @@
 # Cadence-Co.-Dashboard
-## 1. 🛞 Cadence Co.: Global Bicycle Manufacturer Insights Dashboard
+## 1. 🛞 Cadence Co. : 360° Commercial Analytics & Market Performance Dashboard
 An end-to-end, dynamic Power BI analytics solution designed to track manufacturing key performance indicators (KPIs), analyze product trends, monitor regional market performance across global territories, and segment high-value customer behavior from January 2020 through June 2022.
 
 ## 2. Short Description / Purpose
