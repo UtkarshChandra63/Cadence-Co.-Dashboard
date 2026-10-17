@@ -65,4 +65,4 @@ To deliver a multi-page interactive dashboard that:<br>
 - Targeted Marketing & Loyalty Programs: Customer demographic breakdowns reveal that Professional and Skilled Manual income brackets generate the highest order volume, guiding future ad campaigns toward those specific buyer personas.
 
 ## 6. Screenshots / Demos
-!(https://github.com/UtkarshChandra63/Cadence-Co.-Dashboard/tree/main/Snapshots%20of%20the%20Dashboard)
+![Dashboard Preview](https://github.com/UtkarshChandra63/Cadence-Co.-Dashboard/blob/main/Snapshots%20of%20the%20Dashboard/01-Snapshot%20of%20Executive%20Level%20Report.png)
